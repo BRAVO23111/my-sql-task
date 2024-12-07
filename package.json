@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@railway/cli": "^3.19.1",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mysql2": "^3.11.5",
+    "nodemon": "^3.1.7",
+    "railway": "^2.0.17"
+  }
+}
